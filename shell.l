@@ -1,9 +1,7 @@
 
 /*
  *
- * CS-252
  * shell.l: lexical analyzer for shell
- * You have to extend it.
  *
  */
 
